@@ -1,3 +1,10 @@
+Nama: Muhamad Farhan Ramadhan
+NPM : 2210631250061
+Kelas : 5C Sistem Informasi Universitas Singaperbangsa Karawang
+Mata Kuliah : Pemrograman Perangkat Bergerak
+Dosen Pengampu : Kamal Prihandani, S.Kom., M.Kom.
+
+
 # flutter_application_1
 
 A new Flutter project.
